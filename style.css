@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+  overflow: hidden;
+  background-color: #000;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.heart {
+  margin: 0;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  background-color: transparent;
+  text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+  .heart {
+    background-size: 100% auto;
+  }
+  p {
+    font-size: 16px;
+  }
+}
