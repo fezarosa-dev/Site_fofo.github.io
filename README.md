@@ -1,6 +1,6 @@
 # Site Fofo
 
-Este é um projeto de um site fofo desenvolvido por [Felipe-Zanoni-da-Rosa](https://github.com/Felipe-Zanoni-da-Rosa). O site exibe um coração animado e uma mensagem de amor.
+Este é um projeto de um site fofo desenvolvido por [Felipe-Zanoni-da-Rosa](https://github.com/fezarosa-dev). O site exibe um coração animado e uma mensagem de amor.
 
 ## Tecnologias Utilizadas
 
