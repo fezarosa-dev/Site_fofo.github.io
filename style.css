@@ -11,6 +11,8 @@ body {
 }
 a{
 text-decoration: none;
+      padding: 0px;
+    margin: 0px;
 }
 .heart {
   margin: 0;
